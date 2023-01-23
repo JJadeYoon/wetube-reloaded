@@ -1,0 +1,18 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "The best way to watch vidioes",
+  "scripts": {
+    "win": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJadeYoon/wetube-reloaded.git"
+  },
+  "author": "JJADE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JJadeYoon/wetube-reloaded/issues"
+  },
+  "homepage": "https://github.com/JJadeYoon/wetube-reloaded#readme"
+}
